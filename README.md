@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=gEeHZwjwehs
 * Peer Review
 * Tech Radar
 * Rules of Play
+
+# Leader-Leader
+### Quick, routine checks
+Have PO, QA, Dev have spot reviews on developers "in a cave" work to make sure they are on the right track, allowing them to still be in control.
